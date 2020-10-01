@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "832599799672",
+    "firebase_url": "https://barkod-724-ddf26.firebaseio.com",
+    "project_id": "barkod-724-ddf26",
+    "storage_bucket": "barkod-724-ddf26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832599799672:android:0d8dd541f1c16944f5fa8d",
+        "android_client_info": {
+          "package_name": "com.example.barkod724"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832599799672-ib5mg6j84p0dlujtvra4tl9ummnvo1sa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.barkod724",
+            "certificate_hash": "b0e25c4e1e3479036364fa561c20c2d8ed26fbad"
+          }
+        },
+        {
+          "client_id": "832599799672-rj7sacg0cr5aruicl68r2iver24sb1ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP3Zj490gM-6gelTY2WfqDqDSA480olPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832599799672-rj7sacg0cr5aruicl68r2iver24sb1ia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

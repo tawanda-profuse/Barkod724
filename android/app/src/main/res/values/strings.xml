@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Barkod 724</string>
+    <string name="facebook_app_id">450742869215891</string>
+    <string name="fb_login_protocol_scheme">fb450742869215891</string>
+</resources>
