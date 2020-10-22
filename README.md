@@ -1,6 +1,6 @@
 # barkod724
 
-A Flutter project designed and implementented by Tawanda Msengezi. THis was a project that was a requirement to complete my internship at Gigabyte Ltd.
+A Flutter project designed and implementented by Tawanda Msengezi. This was a project that was a requirement to complete my internship at Gigabyte Ltd where I had to use the Flutter framewor to design mobile applications.
 
 ## Getting Started
 
